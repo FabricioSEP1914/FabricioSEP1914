@@ -16,4 +16,4 @@
 
 ## LINGUAGENS MAIS UTILIZADAS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/FabricioSEP1914/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioSEP1914&layout=compact)](https://github.com/FabricioSEP1914/github-readme-stats)
